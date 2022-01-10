@@ -1,0 +1,58 @@
+{
+    "discord": {
+        "token": "ODU1NDcyMjczNDI2NzQzMzI2.YMy-ow.tQzcGiOoYYrLE3Ml_drzFD01p-k"
+    },
+    "stations": {
+        "UK :flag_gb:": [{
+                "name": "Capital FM",
+                "url": "https://media-ice.musicradio.com/CapitalUKMP3",
+                "iconURL": "https://play-lh.googleusercontent.com/ITO7NPWmuUII4gKf5QZrhP7Q3tMT8qz4d6oYzbo01kSN0AHc3FA92z-nM1p1vfirLpU"
+            },
+            {
+                "name": "Heart",
+                "url": "https://media-ice.musicradio.com/HeartUKMP3",
+                "iconURL": "https://play-lh.googleusercontent.com/dWuG0-k3dk_gDWCepF1ZHvzQyCBMl0GTIA4dhALk85Pj9udoqjWZHd_QjIoorejgs8P_"
+            },
+            {
+                "name": "BBC World Service UK",
+                "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+                "iconURL": "https://cdn-radiotime-logos.tunein.com/s50646q.png"
+            },
+            {
+                "name": "Capital XTRA",
+                "url": "https://media-ice.musicradio.com/CapitalXTRANationalMP3",
+                "iconURL": "https://play-lh.googleusercontent.com/afve_a23seB2CT-Gc_Z8BZ6jrsHVxu381fGJr7iy89qsUZH7cbxxx_-I2XSYw5QQVF4"
+            },
+            {
+                "name": "Virgin Radio UK",
+                "url": "https://radio.virginradio.co.uk/stream",
+                "iconURL": "https://cdn-profiles.tunein.com/s266113/images/logoq.png?t=1"
+            },
+            {
+                "name": "Jazz FM",
+                "url": "http://tx.planetradio.co.uk/http_live_bauer.php?i=jazz.aac&awparams=loggedin:false&amsparams=playerid:BMUK_tunein",
+                "iconURL": "https://cdn-profiles.tunein.com/s45300/images/logoq.jpg?t=160977"
+            },
+            {
+                "name": "Capital XTRA Reloaded",
+                "url": "http://media-ice.musicradio.com/CapitalXTRAReloadedMP3",
+                "iconURL": "https://pbs.twimg.com/profile_images/1399694690249842691/FfsFXKTn.png"
+            },
+            {
+                "name": "Classical FM",
+                "url": "https://media-ssl.musicradio.com/ClassicFM?isLoggedIn=false&dax_version=release_2819&dax_player=GlobalPlayer&dax_platform=Web&delivery_type=streaming&aw_0_req.userConsentV2=CPPdtU0PPdtU0AGABCENB0CgAP_AAE_AAAwIG7JH7T5VZWHC-OZ5ZqsAMYhXQMSEIuQQAASAA-ABCQKQIIQGgmAQlASgBAAKAQAAIAJBAAIECAAQSQAAgAAAAACAAAAABAAIAAIAgAAAAAAIAAAGAIAABAAIgAAAEAAAmwwAAIIAAAAAAAAAAAAAABAdKAKAQMAhABHQDAAHSASGQBQAhgBMAI4AbwBeYwAEAVcAsQiACApEQADABIAVcA3gSA2AAgABYAFQAMgAcAA8ACAAGQANAAeQBDAEUAJgATwAqgBYADmAH4AUoAwwBqgD2AH6ARwAxQBvAFIgLzCABQAHgAkAEIAOcAq4aAEAbwBSIYAEAVcBfQqAOAEMAJgBHADeAJBAU2AvMUACAKuAvodAdAAWABUADIAHAAQAAyABoADwAH0AQwBFACYAFUALAAYgA5gB-AEwAKMAUoAwwBogD2AH7ARwBHQCxAGKAReAkEBeY4AwAAgAB4AFwASAA5AB-AE8ALoAXwBCACdAHOAREAiwBGQCrgF1AMCAZkA14BvADyAKQAX0QgEgALAAyAEMAJgAVQAxAEcAMUAkEgALAAQAD8AL4A5wCMgFXALEAZkA3gCkAF9EoCIACAAFgAZAA4ADwAIgATAAqgBiADaAKMAUoA1QCOAGKAReAvMkAMAAuADkAL4AhABqAEZAKuAXUAzIBrwDeAL6KQGAAFgAVAAyABwAEAAMgAaAA8gCGAIoATAApABVACwAGIAOYAfgBRgClAGiANUAfoBHAEXgLzKAFwALgAkAByAD8AJ4AXwA2gByAEIAJ0AagA5wCLAE7AKuAWIAuoBigDXgG8APIApABfQA.YAAAAAAAAAAA&nlsid=f7cbf85ddd6eb3374ca08f91823acd56",
+                "iconURL": "https://herald.musicradio.com/media/f2fb7e11-4a9e-4d53-a081-aab79779ea04.png"
+            }
+        ],
+        "Ireland :flag_ie:": [{
+            "name": "Today FM",
+            "url": "http://edge3.audioxi.com/TD",
+            "iconURL": "https://cdn-profiles.tunein.com/s15099/images/logoq.jpg"
+        }],
+        "Global :globe_with_meridians: ": [{
+            "name": "UpDownRadio",
+            "url": "http://stream.zeno.fm/usty0btz9u8uv",
+            "iconURL": "https://images-ext-1.discordapp.net/external/U8JcMyIDeXWTA_Whyv7cA0-penCcP-CrNcTkAh0icnk/https/imgproxy.zenomedia.com/insecure/fit/200/200/ce/0/plain/https%3A//proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQl82htAoMCxIOU3RhdGlvblByb2ZpbGUYgICwwoDIpAgMogEEemVubw/image/%253Fresize%3D200x200%26v%3D1"
+        }]
+    }
+}
